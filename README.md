@@ -4,8 +4,8 @@ Proyek ini bertujuan untuk menghitung nilai π secara numerik dengan menggunakan
 
 ## Struktur Proyek
 
-- `simpson_integration.php`: Berisi implementasi fungsi untuk menghitung nilai integral dengan metode Simpson 1/3, menghitung galat RMS, dan melakukan pengujian dengan berbagai nilai \( N \).
-- `test_simpson_integration.php`: Berisi kode testing untuk menguji fungsi penghitungan nilai integral dengan variasi nilai \( N \).
+- `main.php`: Berisi implementasi fungsi untuk menghitung nilai integral dengan metode Simpson 1/3, menghitung galat RMS, dan melakukan pengujian dengan berbagai nilai \( N \).
+- `test.php`: Berisi kode testing untuk menguji fungsi penghitungan nilai integral dengan variasi nilai \( N \).
 
 ## Hasil Pengujian
 
